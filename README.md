@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner: 
 
 ```no tenpm intall react```
+
+Sistema de registro 2
